@@ -3,7 +3,7 @@ import time
 
 time.sleep(1)
 
-password="123456naber"
+password="xxxxxxx"
 
 pyautogui.press("win")
 pyautogui.write("google chrome")
@@ -16,16 +16,16 @@ pyautogui.moveTo(1223,620,2)
 pyautogui.click()
 pyautogui.moveTo(935,380,2)
 pyautogui.click()
-pyautogui.write("yusufdolunaydasd") 
+pyautogui.write("xxxxxxxxx") 
 pyautogui.keyDown("altright")
 pyautogui.write("q")
 pyautogui.keyUp("altright")
 time.sleep(2)
 pyautogui.write("gmail.com")
 pyautogui.press("tab")
-pyautogui.write("Yusuf Eymir")      
+pyautogui.write("XXXXXXXXX")      
 pyautogui.press("tab")
-pyautogui.write("nonetypeeec48")
+pyautogui.write("XXXXXXXXX")
 time.sleep(1)
 pyautogui.press("tab")
 pyautogui.press("tab")
